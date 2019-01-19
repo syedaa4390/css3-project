@@ -1,0 +1,23 @@
+* {
+    background-image: radial-gradient(250px, white, pink);
+    /* Makes the background appear to be a red-white gradient */
+    font-family: Varela Round; /* Makes the font Varela */
+}
+
+h2 {
+    text-align: center; /* Adjusts the text so that the title is centered */
+    font-size: 40px; /* Makes the title size 40 pixels */
+}
+
+h4 {
+    font-size: 30px; /* Makes the Critic size 30 pixels */
+}
+
+p {
+    font-size: 20px; /* Makes the commenting sizes 20 pixels */
+}
+
+#yahia-3 {
+    border: 5px solid black; /* Makes the yahia-3 image have a black border */
+    box-shadow: 10px 10px; /* Makes the yahia-3 image's shadow be 10 pixels in all sides */
+}
